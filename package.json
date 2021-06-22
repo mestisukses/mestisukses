@@ -1,6 +1,6 @@
 {
   "name": "mestisukses",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "- 👋 Hi, I’m Yan Ruzika, this is my work repository - 👀 I’m interested in Machine Learning and Web Programming - 🌱 I’m still a student in University of Brawijaya at Computer Science Faculty",
   "main": "index.js",
   "bin": "./cli.js",
@@ -11,11 +11,21 @@
     "type": "git",
     "url": "git+https://github.com/mestisukses/mestisukses.git"
   },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.5.0",
+    "inquirer": "^7.3.2",
+    "open": "^7.0.4",
+    "ora": "^5.1.0",
+    "request": "^2.88.2"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Yan Ruzika",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mestisukses/mestisukses/issues"
   },
-  "homepage": "https://github.com/mestisukses/mestisukses#readme"
+  "homepage": "https://mestisukses.com"
 }
