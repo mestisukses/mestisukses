@@ -1,0 +1,21 @@
+{
+  "name": "mestisukses",
+  "version": "1.0.1",
+  "description": "- 👋 Hi, I’m Yan Ruzika, this is my work repository - 👀 I’m interested in Machine Learning and Web Programming - 🌱 I’m still a student in University of Brawijaya at Computer Science Faculty",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mestisukses/mestisukses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mestisukses/mestisukses/issues"
+  },
+  "homepage": "https://github.com/mestisukses/mestisukses#readme"
+}
